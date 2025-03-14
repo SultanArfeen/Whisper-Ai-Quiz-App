@@ -1,0 +1,24 @@
+# Gradio for the UI
+gradio
+
+# PyTorch for deep learning
+torch
+
+# Transformers if you need Hugging Face Transformers
+transformers
+
+# Whisper from the OpenAI GitHub (if not using a PyPI package)
+git+https://github.com/openai/whisper.git
+
+# For audio manipulation and possible file conversions
+pydub
+ffmpeg-python
+
+# For making requests (if your code downloads or accesses data via HTTP)
+requests
+
+# If you do any data handling
+pandas
+numpy
+
+gtts
